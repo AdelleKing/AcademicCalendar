@@ -1,5 +1,5 @@
 Date,WeekDayName,WeekDayNameShort,WeekdayIndex,WeekNumber,MonthName,MonthNameShort,MonthIndex,Module,AcademicYear,AcademicYearShort,AcademicYearStart,AcademicYearEnd,FullModuleName,ModuleIndex
-03/09/2017,Sunday,Sun,7,0,September,Sep,1,0,0
+03/09/2017,Sunday,Sun,7,2,September,Sep,1,Module 1,2017-18,17/18,2017,2018,2017-18 Module 1,1
 04/09/2017,Monday,Mon,1,2,September,Sep,1,Module 1,2017-18,17/18,2017,2018,2017-18 Module 1,1
 05/09/2017,Tuesday,Tue,2,2,September,Sep,1,Module 1,2017-18,17/18,2017,2018,2017-18 Module 1,1
 06/09/2017,Wednesday,Wed,3,2,September,Sep,1,Module 1,2017-18,17/18,2017,2018,2017-18 Module 1,1
